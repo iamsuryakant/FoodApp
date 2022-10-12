@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FoodApp/static/css/main.2081b1c7.css",
+    "main.js": "/FoodApp/static/js/main.91c3be89.js",
+    "static/media/c3.png": "/FoodApp/static/media/c3.55f83414f33f66456b35.png",
+    "static/media/fi1.png": "/FoodApp/static/media/fi1.3f43e51b6058550d1f44.png",
+    "static/media/f1.png": "/FoodApp/static/media/f1.c52686695ee9a5c4cd0d.png",
+    "static/media/i1.png": "/FoodApp/static/media/i1.3d9b129d2c5432c6f1fb.png",
+    "static/media/heroBg.png": "/FoodApp/static/media/heroBg.c43c4862422e70d88698.png",
+    "static/media/delivery.png": "/FoodApp/static/media/delivery.bf9130a0962fbe091abc.png",
+    "static/media/avatar.png": "/FoodApp/static/media/avatar.68cdc4513e601d28a382.png",
+    "static/media/emptyCart.svg": "/FoodApp/static/media/emptyCart.71ad17e692d71caa77c6c9351f84756b.svg",
+    "static/media/NotFound.svg": "/FoodApp/static/media/NotFound.4e90bb93460bfd8d9e2c86b42ef91a4a.svg",
+    "index.html": "/FoodApp/index.html",
+    "main.2081b1c7.css.map": "/FoodApp/static/css/main.2081b1c7.css.map",
+    "main.91c3be89.js.map": "/FoodApp/static/js/main.91c3be89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2081b1c7.css",
+    "static/js/main.91c3be89.js"
+  ]
+}
